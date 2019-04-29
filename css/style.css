@@ -1,0 +1,242 @@
+body{
+   position: relative;
+}
+.gw{
+    padding: 0 0.6rem;
+}
+.box{
+    position: absolute;
+    width: 16rem;
+    margin-left: 8rem;
+        background: #E7E7E7;
+}
+.head{
+    height: 0.9rem;
+    line-height:0.9rem; 
+    background-color: black;
+}
+.head p{
+    display: inline-block;
+    float: right;
+     margin-right: 0.65rem;
+    font-size: 0.35rem;
+     color: #fff;
+}
+.head img{
+    vertical-align: middle;
+    padding: 0 0.075rem;
+}
+.head .hm{
+    margin-right: 0.125rem;
+}
+.head{]
+    color: red;
+}
+.c1{
+    width: 100%;
+    height: 3.55rem;
+    padding-top: 0.75rem;
+    background: #38474E;
+ 
+}
+.c1 .cp1{
+    height: 0.65rem;
+    line-height: 0.65rem;
+    position: relative;
+    margin-bottom: 0.9rem;
+    padding-right: 0 0.65rem;
+}
+.c1 .cp1 img{
+    float: left;
+}
+.c1 .cp1 span{
+    color: #fff;
+    float: left;
+    padding-left: 1rem;
+    font-size: 0.65rem;
+}
+.c1 .cp1 .cpi{
+    float: right;
+    
+}
+.c1 .cp1 .cpp{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.c1 .cp2{
+    font-size: 0;
+}
+.c1 .cp2 span{
+    width: 7.15rem;
+     height: 1.6rem;
+     line-height: 1.6rem;
+     font-size: 0.5rem;
+    display: inline-block;
+    text-align: center;
+}
+.c1 .cp2 .cps1{
+    background:#2D393F;
+    margin-right: 0.5rem;
+}
+.c1 .cp2 .cps2{
+    background:#F5846A;
+}
+.c2{
+    width: 14.8rem;
+     height: 14.8rem;
+     margin-top: 0.5rem;
+     border-radius: 4px;
+     position: relative;
+}
+.c2 img{
+    width: 14.8rem;
+    height: 14.8rem;
+      border-radius: 4px;
+}
+.c2 .c2p1{
+    position: absolute;
+    top: 7.1rem;
+    left: 0.5rem;
+    margin-left: 1rem;
+}
+.c2 .c2p1 span{
+     width: 0.25rem;
+    height: 0.125rem;
+    background: black;
+    display: inline-block;
+    margin-right: 0.125rem;
+
+}
+.c2 .c2p2{
+    position: absolute;
+    top: 11.1rem;
+    left: 0;
+    width: 100%;
+    height: 3.2rem;
+    line-height: 3.2rem;
+    padding-left: 1.675rem;
+    padding-right: 1.3rem;
+    background: #fff ;
+}
+.c2 .c2p2 span{
+    height: 1.675rem;
+    line-height: 1.675rem;
+    font-size: 0.6rem;
+    display: inline-block;
+    color: black;
+    vertical-align: middle;
+    margin-top: 0.85rem;
+}
+.c2 .c2p2 .p1{
+    width: 6.75rem;
+    float: left;   
+}
+.c2 .c2p2 .p2{
+    width: 3.6rem;
+    margin-left: 2.5rem;
+    float: left; 
+    background: #BFBFC3;   
+}
+.c3{
+    clear: both;
+    height: 2.475rem;
+     line-height: 2.475rem;
+     margin-top: 0.5rem;
+     font-size: 0.35rem;
+     color: black;
+     border-bottom: 1px solid black;
+}
+.c3 p span{
+    font-size: 0.1rem;
+    color: red;
+    float: left;
+    display: inline-block;
+    margin-left: 2rem;
+    
+}
+.c3 p b{
+    display: inline-block;
+    float: left;
+    margin-left: 3.72rem;
+}
+.c4{
+    margin-top: 0.5rem;
+    width: 11.3rem;
+    height: 13rem;
+    border-radius: 0.1rem;
+    padding: 0 1.7rem;
+    border: 1px solid pink;
+    text-align: center;
+    margin-left: 0.6rem;
+}
+.c4 .c4p1{
+    margin-top: 0.5rem;
+     font-size: 0.65rem;
+     height: 0.775rem;
+     line-height: 0.775rem;
+}
+.c4 .c4p2{
+    height: 2.5rem;
+    line-height: 2.5rem;
+    font-size: 0.7rem;
+}
+.c4 .c4p3 span{
+    width: 1.775rem;
+    height: 1.775rem;
+    line-height: 1.775rem;
+    display: inline-block;
+    float: 0.5rem;
+    background: #D9D9DD;
+}
+.c4 .c4p3 span:hover{
+    background: blue;
+    color: #fff;
+}
+.c5{
+    margin-top: 1.6rem;
+    margin-bottom: 1.6rem;
+    text-align: center;
+}
+.c5 p{
+    width: 6.95rem;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    margin-left: 4.6rem;
+    background: black;
+    color: #fff;
+}
+ .footer .top{
+    height: 0.75rem;
+    line-height: 0.75rem;
+}
+.footer .top h6 , .footer .top span{
+    display: inline-block;
+    font-size: 0.6rem;
+}
+.footer .top span{
+    height: 1px;
+    background: black;
+    margin-left: 0.5rem;
+    width: 11rem;
+}
+.footer ul{
+    clear: both;
+    height: 4.5rem;
+    line-height: 4.5rem;
+     background: #E7E7E7;
+}
+.footer ul li{
+    width: 30%;
+    margin-top: 2rem;
+    float: left;
+    height: 2rem;
+    line-height: 2rem;
+    margin-right: 0.2rem;
+}
+.footer ul li img{
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 0;
+    width: 40%;
+}
